@@ -21,6 +21,8 @@ ATENÇÃO O BOT É FEITO PARA QUE TEM UM CERTO CONHECIMENTO EM JAVASCRIPT, NODEJ
 [termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
+termux-setup-storage
+pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts
 git clone https://github.com/botrobson/botrobson.git
 cd botrobson
 bash install.sh
